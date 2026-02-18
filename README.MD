@@ -1,4 +1,4 @@
-Project developed by Santiago Cordoba Fuentes and Gustavo Andres Mendez Barrera
+Project developed by Santiago Cordoba Fuentes.
 
 # Text compressor and decompressor.
 
